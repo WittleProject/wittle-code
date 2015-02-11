@@ -2,7 +2,14 @@
 <resources>
 
     <string name="app_name">Wittle</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="nav_drawer_array">
+        <item>Title Screen</item>
+        <item>Word List</item>
+        <item>Worksheet</item>
+        <item>Other Games</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
 
 </resources>
